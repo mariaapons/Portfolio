@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "PP Monument Extended_b";
+    src: 
+    url('../fonts/PPMonumentExtended-Black.ttf'),
+    url('../fonts/PPMonumentExtended-Black.woff'),
+    url('../fonts/PPMonumentExtended-Black.woff2');
+}
+@font-face {
+    font-family: "PP Monument Extended_r";
+    src: 
+    url('../fonts/PPMonumentExtended-Regular.ttf'),
+    url('../fonts/PPMonumentExtended-Regular.woff'),
+    url('../fonts/PPMonumentExtended-Regular.woff2');
+}
+@font-face {
+    font-family: "PP Monument Extended_l";
+    src: 
+    url('../fonts/PPMonumentExtended-Light.ttf'),
+    url('../fonts/PPMonumentExtended-Light.woff'),
+    url('../fonts/PPMonumentExtended-Light.woff2');
+}
